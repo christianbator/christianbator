@@ -11,23 +11,23 @@ I grew up playing jazz drums and orchestral percussion, but lately I've been foc
 
 **Where I am**  
 🎓 Technische Universität (M.Sc. Computer Science) `// Berlin, Germany`  
-<img src="images/mosaic-icon.svg" width="16" height="auto">&nbsp;&nbsp;[Mosaic](https://github.com/christianbator/mosaic), Creator & Maintainer // Open Source  
-📸 [Zed Open Capture](https://github.com/christianbator/zed-open-capture-mac), Creator & Maintainer // Open Source  
+![](images/mosaic-icon.svg)&nbsp;&nbsp;Mosaic, Creator & Maintainer `// Open Source`  
+📸 Zed Open Capture (macOS), Creator & Maintainer `// Open Source`  
 
-**Where I've been**
+**Where I've been**  
 👨‍💻 Software Engineer, Brain Simulation Lab `// Berlin, Germany`  
 👨‍🌾 Founder & Farmer, Hand Hewn Organics `// Fish Creek, Wisconsin`  
 🌱 Animal Rights Activist `// Portland, Oregon`  
 ⛷️ Amateur Skier (during Covid lockdown) `// Lake Tahoe, California`  
-✈ Amateur Bush Pilot `// Talkeetna, Alaska`  
-👨‍💻 Software Engineer, Robinhood `// San Francisco, California`  
+🛩️ Amateur Bush Pilot `// Talkeetna, Alaska`  
+👨‍💻 **Software Engineer, Robinhood** `// San Francisco, California`  
 👨‍💻 Software Engineer, Pandora `// Oakland, California`  
-👨‍💻 Software Engineer, FarmLogs `// Ann Arbor, Michigan`  
+👨‍💻 **Software Engineer, FarmLogs** `// Ann Arbor, Michigan`  
 👨‍💻 Founder & Software Engineer, Fireside `// Ann Arbor, Michigan`  
 👨‍💻 Software Engineer, Backur `// Detroit, Michigan`  
-🎓 University of Michigan (B.S.E. Computer Science) `// Ann Arbor, Michigan`  
+🎓 **University of Michigan (B.S.E. Computer Science)** `// Ann Arbor, Michigan`  
 
-**What I want to hear about**
+**What I want to hear about**  
 💬 Heterogenous compute, realtime OSes, stereo & event cameras, Mojo, MLIR, signal processing, sensor fusion, SLAM, semantics, machine consciousness
 
 <img src="images/profile-photo.png" alt="Profile Photo" width="683">
