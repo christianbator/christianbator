@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello
 Welcome to my little corner of the internet. The things that get me up in the morning are the mysteries of the mind, jazz piano, tennis on clay courts, and fruit. 
 
 **Where I am**  
