@@ -4,7 +4,6 @@ Welcome to my little corner of the internet. The things that get me up in the mo
 **Where I am**  
 🎓 Technische Universität `M.Sc. Computer Science`  
 <img src="images/mosaic-icon.svg" width="16" height="16">&nbsp;&nbsp;Mosaic `Creator & Maintainer`  
-📸 Zed Open Capture for Mac `Creator & Maintainer`  
 🔥 Mojo Standard Library `Contributor`
 
 **What I want to hear about**  
