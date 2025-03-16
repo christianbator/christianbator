@@ -11,4 +11,4 @@ Welcome to my little corner of the internet. The things that get me up in the mo
 🔥 Mojo, MLIR, heterogenous compute, linux preempt_rt, RISCV, spiking architectures  
 🔮 Machine consciousness  
 
-And yes, that's my brain.
+Yes, that's my brain.
