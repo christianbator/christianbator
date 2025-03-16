@@ -8,7 +8,7 @@ Welcome to my little corner of the internet. The things that get me up in the mo
 
 **What I want to hear about**  
 🤖 Computer vision, signal processing, sensor fusion, SLAM, semantics  
-🔥 Mojo, MLIR, heterogenous compute, linux preempt_rt  
+🔥 Mojo, MLIR, heterogenous compute, linux preempt_rt, RISCV, spiking architectures  
 🔮 Machine consciousness  
 
 And yes, that's my brain.
