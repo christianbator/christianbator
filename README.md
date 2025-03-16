@@ -7,7 +7,7 @@ The things that get me up in the morning are the mysteries of the mind, jazz pia
 🔥 Mojo Standard Library `Contributor`
 
 **What I want to hear about**  
-🤖 Computer vision, signal processing, sensor fusion, SLAM, semantics  
+👓 Computer vision, signal processing, sensor fusion, SLAM, semantics  
 🔭 Heterogenous compute, MLIR, linux preempt_rt, RISCV, spiking architectures  
 🔮 Machine consciousness  
 
