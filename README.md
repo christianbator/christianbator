@@ -1,7 +1,7 @@
 ### Move robot move, but why?
 The things that get me up in the morning are the mysteries of the mind, jazz piano, tennis on clay courts, and fruit. 
 
-**Where I am**  
+**What I'm working on**  
 🎓 Technische Universität `M.Sc. Computer Science`  
 <img src="images/mosaic-icon.svg" width="16" height="16">&nbsp;&nbsp;Mosaic `Creator & Maintainer`  
 🔥 Mojo Standard Library `Contributor`
