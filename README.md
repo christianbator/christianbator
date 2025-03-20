@@ -10,5 +10,3 @@ The things that get me up in the morning are the mysteries of the mind, jazz pia
 👓 Computer vision, signal processing, sensor fusion, SLAM, semantics  
 🔭 Heterogenous compute, MLIR, linux preempt_rt, RISCV, spiking architectures  
 🔮 Machine consciousness  
-
-Yes, that's my brain.
