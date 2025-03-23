@@ -7,7 +7,6 @@ The things that get me up in the morning are the mysteries of the mind, jazz pia
 🔥 Mojo Standard Library `Contributor`
 
 **Where I've been**  
-👨‍🌾 Hand Hewn Organics `Farmer`  
 👨‍💻 Robinhood `Software Engineer`  
 👨‍💻 FarmLogs `Software Engineer`  
 🎓 University of Michigan `B.S.E. Computer Science`  
